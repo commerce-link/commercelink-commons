@@ -7,7 +7,7 @@ This module has **zero external dependencies** (pure Java 21) and provides:
 - **`pl.commercelink.taxonomy.ProductCategory`** — product category enum (CPU, GPU, Laptops, Displays, etc.) organized by `ProductGroup`.
 - **`pl.commercelink.taxonomy.ProductGroup`** — top-level product grouping (Computers, PcComponents, Peripherals, etc.).
 
-It's quite likely this library we get deprecated in near future as we migrate towards a more flexible taxonomy system, but for now it serves as a simple shared domain model for product categorization.
+It's quite likely this library will get deprecated in near future as we migrate towards a more flexible taxonomy system, but for now it serves as a simple shared domain model for product categorization.
 
 ## Usage
 
