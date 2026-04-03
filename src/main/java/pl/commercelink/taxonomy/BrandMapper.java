@@ -9,6 +9,7 @@ public class BrandMapper {
     private static int DEFAULT_PRIORITY =1;
 
     static {
+        addBrand("Phanteks", "Phanteks", 1);
         addBrand("Kioxia Holdings Corporation", "Kioxia", 1);
         addBrand("Sandisk", "SanDisk", 1);
         addBrand("Endorfy", "Endorfy", 1);
